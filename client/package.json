@@ -1,0 +1,17 @@
+{
+  "name": "grpc_node_client_poc_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sai Sreenivas Addepalli",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.5.5",
+    "google-protobuf": "^3.19.4"
+  },
+  "devDependencies": {}
+}
